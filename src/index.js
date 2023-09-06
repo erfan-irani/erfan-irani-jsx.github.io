@@ -7,7 +7,7 @@ const step1 = <div>
     {step2}
     hello world
     <p style={{ backgroundColor: "blue", color: "white" }} className='box1'>erfan irani</p>
-<label htmlFor='email'>email:</label>
+<label htmlFor='email'>email :</label>
 <input id='email'></input>
   
 </div>
